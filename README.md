@@ -61,6 +61,7 @@ Then, I import this data from the Virtual Machine to my windows and put it into 
     <br>You can find the code in the pynb file in the repository.</p>
 </p>
 <h3>Results:</h2>
-    <a href="https://imgbb.com/"><img src="https://image.ibb.co/ksEy9p/a.png" alt="a" border="0"></a>
+    <a href="https://imgbb.com/"><img src="https://image.ibb.co/jqms29/Trend.png" alt="Trend" border="0"></a>
+    <p>This image shows the normalized data, it shows for each element what the trend it folows. That is, how much it's occurence in our country has changed over the course of four years. For more details, you can refer to the report included in the repository. It shows more detailed analysis of the data with more images showing how the trend for individual element has changed. </p>
 </body>
 </html>
