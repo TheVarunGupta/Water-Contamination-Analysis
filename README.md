@@ -61,6 +61,6 @@ Then, I import this data from the Virtual Machine to my windows and put it into 
     <br>You can find the code in the pynb file in the repository.</p>
 </p>
 <h3>Results:</h2>
-    <img src="https://github.com/TheVarunGupta/Water-Contamination-Analysis/a.png">
+    <a href="https://imgbb.com/"><img src="https://image.ibb.co/ksEy9p/a.png" alt="a" border="0"></a>
 </body>
 </html>
