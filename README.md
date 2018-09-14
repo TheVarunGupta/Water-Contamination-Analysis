@@ -43,6 +43,24 @@
 
 <h3>Data Achieved:</h3>
 <p>After using hadoop map reduce commands I achieve a data which looks like this:</p>
-<img src="s.jpg" alt="sample">
+<code>
+    "Arsenic" 	9499.0<br>
+    "Fluoride" 	33299.0<br>
+    "Iron" 	101708.0<br>
+    "Nitrate" 	2551.0<br>
+    "Salinity" 	32609.0<br>
+    MAX: "Iron" 	101708.0<br>
+    MIN: "Nitrate" 	2551.0
+</code>
+<p>This data only represents the results achieved after running map reduce on 2009's data.<br>
+Similary, I ran the code on the rest of the data and achieved the same for the rest of the years.<br>
+Then, I import this data from the Virtual Machine to my windows and put it into a dataframe for the normalization and visualization part.</p>
+
+<h3>Normalization and Visualization:</h3>
+<p> This data is now imported into the dataframe. Now we can call the methods of scikit library to normalize and visualize the data henceforth.
+    <br>You can find the code in the pynb file in the repository.</p>
+</p>
+<h3>Results:</h2>
+    <img src="https://github.com/TheVarunGupta/Water-Contamination-Analysis/a.png">
 </body>
 </html>
